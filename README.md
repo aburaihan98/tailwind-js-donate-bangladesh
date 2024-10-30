@@ -6,4 +6,4 @@ While doing this project I faced two challenges.
 ### Technologies used
 Tailwind css and Vanilla JavaScript
 # Live link 
-https://aburaihan98.github.io/js-donate-bangladesh/
+https://aburaihan98.github.io/tailwind-js-donate-bangladesh/
